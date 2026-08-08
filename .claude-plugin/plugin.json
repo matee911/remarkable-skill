@@ -1,0 +1,10 @@
+{
+  "name": "remarkable-skill",
+  "description": "Push Markdown notes to a reMarkable tablet wirelessly and pull hand-written annotations back off it, merged onto the original PDF.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mateusz Pawlik"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/matee911/remarkable-skill"
+}

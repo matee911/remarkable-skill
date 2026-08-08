@@ -1,0 +1,4 @@
+# Lint/typecheck tooling, only needed if you're editing rmpull/.
+# Install: pip install -r requirements-dev.txt
+ruff>=0.16.2
+pyrefly>=1.2.0

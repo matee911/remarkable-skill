@@ -1,0 +1,5 @@
+# Runtime dependencies for the annotation pull pipeline (rmpull/).
+# Install: pip install -r requirements.txt (needs Python >=3.10, see SKILL.md)
+rmc>=0.3.0
+cairosvg>=2.9.0
+pypdf>=6.15.0

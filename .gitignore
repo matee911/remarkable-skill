@@ -1,0 +1,6 @@
+skills/run-remarkable-skill/driver/venv/
+__pycache__/
+*.pyc
+*.pdf
+*.rmdoc
+*.zip
